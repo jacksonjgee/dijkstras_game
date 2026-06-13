@@ -1,0 +1,1 @@
+The purpose of this project is to strengthen my understanding of Dijkstra’s algorithm by applying it in a practical game. I also want to learn how to deploy and host a web application so the project can be accessed and played through any modern web browser.
