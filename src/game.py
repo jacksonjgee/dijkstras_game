@@ -1,6 +1,4 @@
-import math
-import random
-import pygame
+import math, random, pygame, asyncio
 
 from src.graph import Graph
 from src.dijkstra import dijkstra
@@ -44,11 +42,13 @@ class Game:
         self.instruction_font = pygame.font.SysFont(None, 25)
         self.result_font = pygame.font.SysFont(None, 32)
 
-    def run(self):
+    async def run(self):
         while self.running:
             self.handle_events()
             self.draw()
             self.clock.tick(60)
+
+            await asyncio.sleep(0)
 
         pygame.quit()
 
