@@ -1,1 +1,1 @@
-pygame-ce
+pygame==2.6.1

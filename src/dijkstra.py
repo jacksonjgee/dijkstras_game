@@ -1,4 +1,4 @@
-from dijkstras_game.src.heap_priority_queue import HeapPriorityQueue
+from src.heap_priority_queue import HeapPriorityQueue
 
 
 def dijkstra(graph, start, target = None):
