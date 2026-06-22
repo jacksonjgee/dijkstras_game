@@ -6,7 +6,7 @@ This project was designed to strengthen my understanding of Dijkstra’s shortes
 
 ## Live Demo
 
-[Open the Dijkstra Pathfinding Visualiser](https://jacksonjgee.github.io/dijkstras_game/)
+[Open the Dijkstra Pathfinding Visualiser](https://jacksonjgee.github.io/dijkstras_pathfinding_visualiser/)
 
 ![Dijkstra pathfinding visualiser showing a weighted graph and highlighted shortest path](images/image.png)
 
