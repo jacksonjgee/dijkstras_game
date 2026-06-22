@@ -1,4 +1,4 @@
-# Dijkstra's Game
+# Dijkstra's Pathfinding Visualiser
 
 An interactive browser-based graph visualisation game built with Python and Pygame.
 
